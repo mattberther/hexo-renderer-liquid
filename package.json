@@ -1,0 +1,43 @@
+{
+  "name": "hexo-renderer-liquid",
+  "version": "0.1.0",
+  "description": "Liquid renderer plugin for Hexo",
+  "main": "index",
+  "scripts": {
+    "test": "mocha && jshint .",
+    "publish-major": "npm version major && npm publish && git push origin master && git push --tags",
+    "publish-minor": "npm version minor && npm publish && git push origin master && git push --tags",
+    "publish-patch": "npm version patch && npm publish && git push origin master && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattberther/hexo-renderer-liquid.git"
+  },
+  "keywords": [
+    "hexo",
+    "liquid",
+    "renderer",
+    "hexo-renderer"
+  ],
+  "author": {
+    "name": "Matt Berther",
+    "email": "matt@berther.io",
+    "url": "https://matt.berther.io"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattberther/gulp-resume/issues"
+  },
+  "homepage": "https://github.com/mattberther/gulp-resume",
+  "dependencies": {
+    "liquid-node": "2.6.1",
+    "object-assign": "4.0.1"
+  },
+  "devDependencies": {
+    "jshint": "2.9.1",
+    "mocha": "2.4.5"
+  }
+}
