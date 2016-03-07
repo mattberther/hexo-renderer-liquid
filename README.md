@@ -2,6 +2,12 @@
 
 Add support for [Liquid].
 
+[![NPM](https://nodei.co/npm/hexo-renderer-liquid.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hexo-renderer-liquid/)
+
+[![Circle CI](https://circleci.com/gh/mattberther/hexo-renderer-liquid.svg?style=shield)](https://circleci.com/gh/mattberther/hexo-renderer-liquid)
+[![devDependency Status](https://david-dm.org/mattberther/hexo-renderer-liquid.svg)](https://david-dm.org/mattberther/hexo-renderer-liquid#info=devDependencies)
+
+
 ## Install
 
 ``` bash
