@@ -1,12 +1,8 @@
 # [Liquid] renderer for [Hexo]
 
-Add support for [Liquid].
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
-[![NPM](https://nodei.co/npm/hexo-renderer-liquid.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hexo-renderer-liquid/)
-
-[![Circle CI](https://circleci.com/gh/mattberther/hexo-renderer-liquid.svg?style=shield)](https://circleci.com/gh/mattberther/hexo-renderer-liquid)
-[![devDependency Status](https://david-dm.org/mattberther/hexo-renderer-liquid.svg)](https://david-dm.org/mattberther/hexo-renderer-liquid#info=devDependencies)
-
+> Add support for [Liquid].
 
 ## Install
 
@@ -31,3 +27,9 @@ engine.registerFilters({
 [Liquid]: https://github.com/Shopify/liquid
 [liquid-node]: https://github.com/sirlantis/liquid-node
 [Hexo]: http://hexo.io/
+[npm-image]: https://badge.fury.io/js/hexo-renderer-liquid.svg
+[npm-url]: https://npmjs.org/package/hexo-renderer-liquid
+[travis-image]: https://travis-ci.org/winstonjs/hexo-renderer-liquid.svg?branch=master
+[travis-url]: https://travis-ci.org/winstonjs/hexo-renderer-liquid
+[daviddm-image]: https://david-dm.org/winstonjs/hexo-renderer-liquid.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/winstonjs/hexo-renderer-liquid
