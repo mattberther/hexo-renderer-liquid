@@ -29,7 +29,7 @@ engine.registerFilters({
 [Hexo]: http://hexo.io/
 [npm-image]: https://badge.fury.io/js/hexo-renderer-liquid.svg
 [npm-url]: https://npmjs.org/package/hexo-renderer-liquid
-[travis-image]: https://travis-ci.org/winstonjs/hexo-renderer-liquid.svg?branch=master
-[travis-url]: https://travis-ci.org/winstonjs/hexo-renderer-liquid
-[daviddm-image]: https://david-dm.org/winstonjs/hexo-renderer-liquid.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/winstonjs/hexo-renderer-liquid
+[travis-image]: https://travis-ci.org/mattberther/hexo-renderer-liquid.svg?branch=master
+[travis-url]: https://travis-ci.org/mattberther/hexo-renderer-liquid
+[daviddm-image]: https://david-dm.org/mattberther/hexo-renderer-liquid.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/mattberther/hexo-renderer-liquid
